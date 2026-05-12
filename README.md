@@ -14,28 +14,23 @@ You are required to help the manager to predict the right group of the new custo
 Include the neural network model diagram.
 
 ## DESIGN STEPS
-### STEP 1: 
+### STEP 1:
+Load dataset
 
-Write your own steps
+### STEP 2:
+Process the Dataset
 
-### STEP 2: 
+### STEP 3:
+Split features and target
 
+### STEP 4:
+Define Neural Network
 
+### STEP 5:
+Initialize the training loop and train the model
 
-### STEP 3: 
-
-
-
-### STEP 4: 
-
-
-
-### STEP 5: 
-
-
-
-### STEP 6: 
-
+### STEP 6:
+Compute metrics as result
 
 
 
